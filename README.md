@@ -2,9 +2,9 @@ To create an effective GitHub repository description for a project titled "GOLAS
 
 ---
 
-### GOLASACHIEVEMENT BOX 🏆
+### GOALSACHIEVEMENT BOX 🏆
 
-**GOLASACHIEVEMENT BOX** is a powerful, goal-setting, and achievement-tracking tool designed to help individuals and teams stay focused, organized, and motivated. This project enables users to define goals, track progress, and celebrate achievements in a structured and visually appealing way.
+**GOALSACHIEVEMENT BOX** is a powerful, goal-setting, and achievement-tracking tool designed to help individuals and teams stay focused, organized, and motivated. This project enables users to define goals, track progress, and celebrate achievements in a structured and visually appealing way.
 
 #### Key Features:
 - **Goal Management**: Create and manage goals with deadlines, priority levels, and custom categories.
@@ -22,7 +22,7 @@ To create an effective GitHub repository description for a project titled "GOLAS
 - **Deployment**: Deployed on [Heroku/AWS/GCP/Azure] with CI/CD pipeline integration.
 
 #### Getting Started:
-To get started with GOLASACHIEVEMENT BOX, clone the repository and follow the installation instructions in the `README.md` file.
+To get started with GOALACHIEVEMENT BOX, clone the repository and follow the installation instructions in the `README.md` file.
 
 ```bash
 git clone https://github.com/yourusername/golasachievement-box.git
